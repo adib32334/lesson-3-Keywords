@@ -21,7 +21,7 @@ for x in range(21):
 #Continue
 c = 10
 while c>0:
-    if (c==5):
+    if (c==3):
         continue
     print("\n I am ",c)
     c= c-1
